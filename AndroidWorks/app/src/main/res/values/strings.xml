@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Learn</string>
+    <string name="app_logo">Applogo</string>
+    <string name="rtn_user">Returning User? </string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dontAcc">Don\'t have an account?</string>
+    <string name="next">Next</string>
+    <string name="email_addre">Email Address</string>
+    <string name="enter_the_v">Enter the verification code sent to your mail</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="vsign_in">Have a verification code?</string>
+    <string name="set_password">Set Password</string>
+    <string name="set_a_new_p">Set a new password for your learn account</string>
+    <string name="enter_passw">Enter password here...</string>
+    <string name="re_enter_pa">Re-enter password here...</string>
+    <string name="skip">Skip</string>
+
+
+
+</resources>
